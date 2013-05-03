@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<music>
+ 	<song>
+ 		<fileName>someChords.mp3</fileName>
+        <artist>Deadmou5</artist>
+        <title>Some Chords - Deadmau5</title>
+        <track>01</track>
+    </song>
+    <song>
+    	<fileName>Figure8.mp3</fileName>
+        <artist>Ellie Goulding</artist>
+        <title>Figure 8 - Xilent Remix</title>
+        <track>02</track>
+    </song>
+    <song>
+    	<fileName>Iremember.mp3</fileName>
+        <artist>Deadmau5</artist>
+        <title>I Remember - Deadmau5</title>
+        <track>03</track>
+    </song>
+    <song>
+    	<fileName>proNails.mp3</fileName>
+        <artist>Kid Sister</artist>
+        <title>Pro Nails - Kid Sister</title>
+        <track>04</track>
+    </song>
+</music>
